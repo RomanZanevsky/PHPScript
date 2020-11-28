@@ -8,6 +8,7 @@
 function config($key = '')
 {
     $config = [
+        'site_url' => 'http://localhost:8080/'
         'name' => 'Simple PHP Website',
         'pretty_uri' => true,
         'nav_menu' => [
