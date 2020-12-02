@@ -9,7 +9,7 @@ function config($key = '')
 {
     $config = [
         'name' => 'Simple PHP Website',
-        'site_uri' => ''
+        'site_uri' => '',
         'pretty_uri' => false,
         'nav_menu' => [
             '' => 'Home',
